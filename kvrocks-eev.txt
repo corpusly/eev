@@ -1,0 +1,9 @@
+
+
+(base) cikuu@gpu55:/ssd/cikuu$ du -sh kvrocks-eev-str-map/
+182G	kvrocks-eev-str-map/
+
+--- sqlite version, 148G 
+-rw-r--r--  1 cikuu cikuu 148116185088 8月  12 16:16 eevarc.eevdb
+
+line:  { eid : { ver: arr35 } } 
